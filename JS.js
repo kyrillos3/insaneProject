@@ -64,3 +64,5 @@ switch (day) {
         console.log("Invalid day");
         break;
 }
+
+let num = 10;
